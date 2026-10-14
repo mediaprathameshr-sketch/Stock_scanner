@@ -8,12 +8,13 @@ Root: C:\Finance\Stocks
 ├── fyersRequests.log
 ├── generate_token.py
 ├── python github_setup.py
+├── requirements.txt
 └── scanner.py
 
 ======================================================================
 SUMMARY
 ======================================================================
 Folders: 0
-Files shown: 6
+Files shown: 7
 CSV files: 0
 ======================================================================
